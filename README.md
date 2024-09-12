@@ -1,1 +1,1 @@
-# gymn_task
+# Interview tasks for Gym Nation
